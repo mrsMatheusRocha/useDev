@@ -1,0 +1,107 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Camiseta Capy",
+			"price": 89.9,
+			"category": 1,
+			"description": "Camiseta 100% algodão",
+			"colors": ["bege", "branca", "cinza"],
+			"sizes": ["P", "M", "G", "GG"],
+			"image": "/products/tshirt.png"
+		},
+		{
+			"id": 2,
+			"name": "Mousepad </>",
+			"price": 40.99,
+			"category": 2,
+			"description": "Mousepad gamer",
+			"colors": [],
+			"sizes": [],
+			"image": "/products/mousepad.png"
+		},
+		{
+			"id": 3,
+			"name": "Boné 404 Not Found",
+			"price": 59.2,
+			"category": 4,
+			"description": "Boné trucker com ajuste de 5 pontos",
+			"colors": ["preto", "cinza"],
+			"sizes": [],
+			"image": "/products/cap.png"
+		},
+		{
+			"id": 4,
+			"name": "Copo Dia de Programador",
+			"price": 9.99,
+			"category": 3,
+			"description": "Copo térmico de 500ml",
+			"colors": [],
+			"sizes": [],
+			"image": "/products/cup.png"
+		},
+		{
+			"id": 5,
+			"name": "Quadro while(alive) {}",
+			"price": 129.99,
+			"category": 2,
+			"description": "Quadro de madeira",
+			"colors": [],
+			"sizes": [],
+			"image": "/products/frame.png"
+		},
+		{
+			"id": 6,
+			"name": "Chaveiro 'Na minha máquina funciona'",
+			"price": 12.99,
+			"category": 4,
+			"description": "Chaveiro e abridor de garrafa",
+			"colors": [],
+			"sizes": [],
+			"image": "/products/keychain.png"
+		},
+		{
+			"id": 7,
+			"name": "Xícara 'Haverá bug'",
+			"price": 52.99,
+			"category": 3,
+			"description": "Xícara de 350ml",
+			"colors": [],
+			"sizes": [],
+			"image": "/products/mug.png"
+		},
+		{
+			"id": 8,
+			"name": "Camiseta Estágios de Programador",
+			"price": 92.99,
+			"category": 1,
+			"description": "Camiseta 100% algodão",
+			"colors": ["preto", "cinza"],
+			"sizes": ["P", "M", "G", "GG"],
+			"image": "/products/tshirt-2.png"
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Roupas",
+			"image": "/categories/clothes.png"
+		},
+		{
+			"id": 2,
+			"name": "Decoração",
+			"image": "/categories/decorations.png"
+		},
+		{
+			"id": 3,
+			"name": "Canecas",
+			"image": "/categories/mugs.png"
+		},
+		{
+			"id": 4,
+			"name": "Acessórios",
+			"image": "/categories/accessories.png"
+		}
+	],
+	"cart": []
+}
