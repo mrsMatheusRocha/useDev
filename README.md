@@ -1,8 +1,6 @@
 # useDev
 > A vitrine interativa — um clone de e-commerce elegante, rápido e feito para inspirar.
 
-[Ver demo ao vivo](https://use-dev-beta.vercel.app/) • ⭐ Projeto criado por mrsMatheusRocha
-
 Bem-vindo ao useDev — não é só um conjunto de hooks: é uma experiência visual que funciona como uma loja demo. Pense neste projeto como a vitrine perfeita para testar interfaces, UX de compras, animações e padrões modernos de front-end. Explore o site como se estivesse navegando em uma loja real: catálogo, busca, carrinho, checkout simulado e páginas de produto com comportamento real.
 
 Por que vale a pena olhar
